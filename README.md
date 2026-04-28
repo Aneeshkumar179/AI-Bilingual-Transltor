@@ -1,4 +1,4 @@
-# 🌐 AI Bilingual Translator — English ↔ Urdu
+# 🌐 AI Language Translator — English ↔ Urdu
 
 An AI-powered translation tool built for focused, high-quality conversion between **English and Urdu**. 
 By specializing in two languages rather than many, the project delivers more reliable output, cleaner prompting, and a better user experience.
